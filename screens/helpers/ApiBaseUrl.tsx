@@ -1,0 +1,1 @@
+module.exports = 'https://webrabbitsolutions.in/apps/minemate/minemateApi.php';
